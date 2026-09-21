@@ -1,0 +1,5 @@
+Sample_ID	Organism	Source	Year
+KP001	Klebsiella_pneumoniae	Blood	2022
+KP002	Klebsiella_pneumoniae	Urine	2023
+EC001	Escherichia_coli	Urine	2022
+EC002	Escherichia_coli	Blood	2024
