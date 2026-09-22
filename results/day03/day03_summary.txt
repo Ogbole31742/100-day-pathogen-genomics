@@ -1,0 +1,5 @@
+Day 3 Linux Text Processing
+
+Organism counts:
+      2 Escherichia_coli
+      2 Klebsiella_pneumoniae
