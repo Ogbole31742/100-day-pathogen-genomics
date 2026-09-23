@@ -1,0 +1,10 @@
+FASTA
+- Sequence identifier
+- DNA/RNA sequence
+- No per-base quality scores
+
+FASTQ
+- Sequence identifier
+- DNA/RNA sequence
+- Separator
+- Per-base quality scores
