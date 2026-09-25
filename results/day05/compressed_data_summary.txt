@@ -1,0 +1,11 @@
+Day 5 — Compressed Genomic Data
+
+FASTQ records: 2
+FASTA sequences: 3
+
+Commands practiced:
+gzip
+zcat
+zgrep
+awk
+wc
